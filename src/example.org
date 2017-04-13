@@ -1,0 +1,13 @@
+$TTL 1800
+
+@  IN SOA  ns1 (
+           hostmaster.example.org.
+           42
+           600
+           900
+           604800
+           3600 )
+
+      NS   ns1
+      NS   ns2
+

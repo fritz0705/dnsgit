@@ -1,0 +1,7 @@
+dssets/dsset-*
+
+# Remove if you want offline signing
+*.signed
+
+# Add if you want offline signing
+# keys/K*.private
