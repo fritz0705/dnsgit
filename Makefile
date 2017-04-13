@@ -18,7 +18,6 @@ update: all
 	$(RELOAD_ZONES)
 	echo 
 
-force-update: SIGNZONE_FLAGS=-N date
 force-update: clean update
 
 clean:
